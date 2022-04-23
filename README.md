@@ -9,6 +9,6 @@ The actual system is accessible here:
 
 # 🔥 Bug reports and feature requests
 Please use the bug tracker to submit both feature requests and bug reports.
-We also monitor our forum at [https://forum.skygems-observatories.com/](https://forum.skygems-observatories.com/, but like to link to the tracker to track progress on all issues
+We also monitor our forum at https://forum.skygems-observatories.com/, but like to link to the tracker to track progress on all issues
 
 
